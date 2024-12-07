@@ -15,7 +15,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: windows
+    runs-on: windows-latest
 
     steps:
       - uses: actions/checkout@v4
@@ -48,7 +48,7 @@ jobs:
   deploy:
     permissions:
       contents: none
-    runs-on: windows
+    runs-on: windows-latest
     needs: build
     environment:
       name: 'Development'
