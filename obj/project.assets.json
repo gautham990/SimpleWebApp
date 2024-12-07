@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gauth\\OneDrive\\Desktop\\trash\\.NET\\SimpleWebApp\\SimpleWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\gauth\\OneDrive\\Desktop\\trash\\SimpleWebApp\\SimpleWebApp.csproj",
       "projectName": "SimpleWebApp",
-      "projectPath": "C:\\Users\\gauth\\OneDrive\\Desktop\\trash\\.NET\\SimpleWebApp\\SimpleWebApp.csproj",
+      "projectPath": "C:\\Users\\gauth\\OneDrive\\Desktop\\trash\\SimpleWebApp\\SimpleWebApp.csproj",
       "packagesPath": "C:\\Users\\gauth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gauth\\OneDrive\\Desktop\\trash\\.NET\\SimpleWebApp\\obj\\",
+      "outputPath": "C:\\Users\\gauth\\OneDrive\\Desktop\\trash\\SimpleWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gauth\\AppData\\Roaming\\NuGet\\NuGet.Config"

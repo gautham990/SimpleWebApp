@@ -1,0 +1,7 @@
+C:\Users\gauth\OneDrive\Desktop\trash\SimpleWebApp\myapp\SimpleWebApp.exe
+C:\Users\gauth\OneDrive\Desktop\trash\SimpleWebApp\myapp\appsettings.Development.json
+C:\Users\gauth\OneDrive\Desktop\trash\SimpleWebApp\myapp\appsettings.json
+C:\Users\gauth\OneDrive\Desktop\trash\SimpleWebApp\myapp\SimpleWebApp.dll
+C:\Users\gauth\OneDrive\Desktop\trash\SimpleWebApp\myapp\SimpleWebApp.deps.json
+C:\Users\gauth\OneDrive\Desktop\trash\SimpleWebApp\myapp\SimpleWebApp.runtimeconfig.json
+C:\Users\gauth\OneDrive\Desktop\trash\SimpleWebApp\myapp\SimpleWebApp.pdb
